@@ -11,7 +11,7 @@
 
 | Yokalama Alma Sayfası                         | Kayıt Olma Sayfası                    |
 | ---------------------------------- | ---------------------------------- |
-| ![Resim 1](https://github.com/hasanbasrikaygin/Face-Recognition-Attendance-FlutterApp/blob/main/images/attendance_view.jpeg) | ![Resim 2](https://github.com/hasanbasrikaygin/Face-Recognition-Attendance-FlutterApp/blob/main/images/register_view.jpeg) |
+| ![attendance](https://github.com/hasanbasrikaygin/Face-Recognition-Attendance-FlutterApp/blob/main/images/attendance_view.jpeg) | ![register](https://github.com/hasanbasrikaygin/Face-Recognition-Attendance-FlutterApp/blob/main/images/register_view.jpeg) |
 
 
 Öğrencilerin yoklama almak için ; bölüm seçimi , ders seçimi ve fotoğraf yükleme işlemini gerçekleştirdikleri sayfa. | Öğrencilerin sisteme kayıt olmak için bilgilerini girdikleri ve fotoğraf çekimini gerçekleştirdikleri sayfa.
@@ -25,23 +25,23 @@
 
 | Öğretmen Giriş Sayfası |  Öğretmen Sorgu Sayfası |
 | --- | --- |
-| ![Resim 1](https://github.com/hasanbasrikaygin/Face-Recognition-Attendance-FlutterApp/assets/56577160/9ceadd58-51f4-4291-a2a5-3af78a4bcdd7) | ![Resim 2](https://github.com/hasanbasrikaygin/Face-Recognition-Attendance-FlutterApp/assets/56577160/55f2203d-c917-4867-ad55-9aea8e922d96) |
+| ![login](https://github.com/hasanbasrikaygin/Face-Recognition-Attendance-FlutterApp/blob/main/images/teacher_login_view.jpeg) | ![admin](https://github.com/hasanbasrikaygin/Face-Recognition-Attendance-FlutterApp/blob/main/images/teacher_view.jpeg) |
 
 ---
 
 
 | Seçilen tarih ve ders bilgilerine göre dersin yoklama listesinin görüntülendiği ekran. | Seçilen tarih ve ders bilgilerine göre kaydın oluşturulduğu ve derse ait geçmişte bulunan bilgilerin görüntülendiği ekran. |
 | --- | --- |
-| ![Resim 1](https://github.com/hasanbasrikaygin/Face-Recognition-Attendance-FlutterApp/blob/main/images/student_list_view.jpeg) | ![Resim 2](https://github.com/hasanbasrikaygin/Face-Recognition-Attendance-FlutterApp/blob/main/images/lesson_list_view.jpeg) |
+| ![attendance list](https://github.com/hasanbasrikaygin/Face-Recognition-Attendance-FlutterApp/blob/main/images/student_list_view.jpeg) | ![lesson week list](https://github.com/hasanbasrikaygin/Face-Recognition-Attendance-FlutterApp/blob/main/images/lesson_list_view.jpeg) |
 
 
 
 # Projede kullanılan teknolojiler:
-- Haarcascade: Yüz bulma işlemi için kullanılan önceden eğitilmiş bir görüntü sınıflandırıcısı.
-- Facenet: Yüz tanıma işlemi için kullanılan önceden eğitilmiş bir derin öğrenme modeli.
-- Flask: API geliştirme için kullanılan Python framework'ü.
-- MySQL: Öğrenci, ders ve yoklama bilgilerinin saklandığı tabloları içermektedir.
-- HTTP: İstemci-sunucu arasında iletişim için kullanılan protokol.
+- Haarcascade : Yüz bulma işlemi için kullanılan önceden eğitilmiş bir görüntü sınıflandırıcısı.
+- Facenet : Yüz tanıma işlemi için kullanılan önceden eğitilmiş bir derin öğrenme modeli.
+- Flask : API geliştirme için kullanılan Python framework'ü.
+- MySQL : Öğrenci, ders ve yoklama bilgilerinin saklandığı tabloları içermektedir.
+- HTTP : İstemci-sunucu arasında iletişim için kullanılan protokol.
 
 # Projede kullanılan Python kütüphaneleri:
 - flask
